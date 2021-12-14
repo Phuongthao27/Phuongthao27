@@ -4,7 +4,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://i.gifer.com/39Cg.gif" width="50%" style="margin-bottom: 20px;" /> </br></br>
   -->
-- 👨‍💻 You can also check out my portfolio at [https://iamducthanh.github.io/](https://iamducthanh.github.io/)
+<!-- - 👨‍💻 You can also check out my portfolio at [https://iamducthanh.github.io/](https://iamducthanh.github.io/) -->
 
 <p><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phuongthao27&show_icons=true&locale=en&layout=compact" alt="Phuongthao27" /></p>
 
